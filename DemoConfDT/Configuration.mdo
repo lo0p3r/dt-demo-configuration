@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" name="ДемонстрационнаяКонфигурацияУправляемоеПриложение" comment=" " defaultRunMode="ManagedApplication" scriptVariant="Russian" vendor="Фирма &quot;1С&quot;" version="1.0.19.2" includeHelpInContents="true" defaultLanguage="Language.Русский" dataLockControlMode="Managed" objectAutonumerationMode="NotAutoFree" modalityUseMode="DontUse" synchronousExtensionAndAddInCallUseMode="DontUse" defaultConstantsForm="CommonForm.ОбщиеНастройки">
+<?xml version="1.0" encoding="UTF-8"?><mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" name="ДемонстрационнаяКонфигурацияУправляемоеПриложение" comment="тест" defaultRunMode="ManagedApplication" scriptVariant="Russian" vendor="Фирма &quot;1С&quot;" version="1.0.19.2" includeHelpInContents="true" defaultLanguage="Language.Русский" dataLockControlMode="Managed" objectAutonumerationMode="NotAutoFree" modalityUseMode="DontUse" synchronousExtensionAndAddInCallUseMode="DontUse" defaultConstantsForm="CommonForm.ОбщиеНастройки">
     <usePurposes>PersonalComputer</usePurposes>
     <subsystems>Subsystem.Предприятие</subsystems>
     <subsystems>Subsystem.Закупки</subsystems>
